@@ -9,6 +9,10 @@ This article explores how Release Management and DevOps complement each other, w
 
 ---
 
+![Uploading UnifiedReleaseModel.png…]()
+
+
+
 ## What Release Management Really Meant in Enterprise Environments
 
 Release Management was never a siloed or ceremonial function.
