@@ -25,14 +25,14 @@ The content here complements hands-on engineering work and focuses on **clarity,
 ## Structure
 
 The repository is organized by domain:
-
+```
 knowledge-base/
 ├─ release-engineering/
 ├─ devops/
 ├─ itil/
 ├─ safe-rte/
 └─ assets/
-
+```
 
 Each section contains focused articles, diagrams, and notes relevant to that domain.
 
