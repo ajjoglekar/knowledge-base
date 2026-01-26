@@ -60,6 +60,8 @@ The case is used to:
 
 ---
 
+## 🧩 How This Repository Is Structured
+
 ## 📚 Repository Structure
 
 ```text
@@ -81,102 +83,85 @@ ITIL V4/
 
 Each module:
 
-Builds on the previous one
+- **Builds on the previous one**
+- **Avoids duplication**
+- **Maintains conceptual continuity**
 
-Avoids duplication
+The intent is to help readers form a **single coherent mental model** of ITIL 4, rather than a collection of disconnected topics.
 
-Maintains conceptual continuity
+---
 
-🧩 How to Use This Repository
+## 🧩 How to Use This Repository
 
 You can use this in multiple ways:
 
-📖 As a learning path
+### 📖 As a learning path
+Read modules in order to build a complete mental model of ITIL 4.
 
-Read modules in order (0 → 9) to build a complete mental model of ITIL 4.
-
-🎓 For certification preparation
-
+### 🎓 For certification preparation
 Focus on:
+- Core definitions  
+- Relationships between concepts  
+- The **ITIL 4 — Complete Mental Model** note  
+- The **Explanation & Interview Readiness** module  
 
-Definitions
-
-Relationships between concepts
-
-The mental model summary
-
-The interview readiness module
-
-🛠️ For real-world application
-
+### 🛠️ For real-world application
 Use the NextGen examples to:
+- Diagnose organizational issues
+- Frame conversations with leadership
+- Connect ITIL concepts to Agile / DevOps work
 
-Diagnose organizational issues
+### 💬 For interviews
+The **Explanation & Interview Readiness** module and the **Mental Model** note are especially useful for:
+- Explaining ITIL simply
+- Answering “Why ITIL?”
+- Handling skepticism and resistance
 
-Frame conversations with leadership
+---
 
-Connect ITIL concepts to Agile / DevOps work
-
-💬 For interviews
-
-Module 9 and the Mental Model note are especially useful for:
-
-Explaining ITIL simply
-
-Answering “Why ITIL?”
-
-Handling skepticism
-
-🧠 Core Philosophy
+## 🧠 Core Philosophy
 
 This repository is built on one belief:
 
-Frameworks fail when treated as processes.
-They succeed when used as thinking tools.
+> **Frameworks fail when treated as processes.  
+> They succeed when used as thinking tools.**
 
 ITIL 4 works best when:
+- Principles guide decisions
+- Governance clarifies intent
+- Value flow is visible
+- Capabilities are applied selectively
+- Learning is systematic
 
-Principles guide decisions
+---
 
-Governance clarifies intent
+## 🚀 Who This Is For
 
-Value flow is visible
+- DevOps Engineers  
+- Platform Engineers  
+- SREs  
+- Technical Program / Release Managers  
+- IT Managers and Architects  
+- ITIL certification candidates who want **real understanding**
 
-Capabilities are applied selectively
+---
 
-Learning is systematic
+## 📌 Disclaimer
 
-🚀 Who This Is For
-
-DevOps Engineers
-
-Platform Engineers
-
-SREs
-
-Technical Program / Release Managers
-
-IT Managers and Architects
-
-ITIL certification candidates who want real understanding
-
-📌 Disclaimer
-
-This repository reflects an interpretive, practitioner-oriented view of ITIL 4.
+This repository reflects an **interpretive, practitioner-oriented view of ITIL 4**.  
 It is not official AXELOS material.
 
 All examples are fictional and used solely for learning purposes.
 
-✨ Final Note
+---
+
+## ✨ Final Note
 
 If you finish this repository and feel that:
-
-ITIL finally makes sense
-
-It no longer feels outdated
-
-You can explain it without jargon
+- ITIL finally *makes sense*
+- It no longer feels outdated
+- You can explain it without jargon
 
 Then it has done its job.
 
-
+---
