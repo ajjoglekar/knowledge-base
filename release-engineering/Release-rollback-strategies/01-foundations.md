@@ -192,4 +192,4 @@ In **Module 02**, we will build a **clear taxonomy of rollback types**, includin
 
 Understanding *which rollback category you are dealing with* is the basis of every correct decision.
 
-➡️ Continue to: `modules/02-rollback-types.md`
+
